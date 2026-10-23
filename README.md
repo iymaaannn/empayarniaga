@@ -12,6 +12,8 @@ Buka `index.html` dalam pelayar, atau main terus di GitHub Pages:
 - Satu fail HTML sahaja, tiada pemasangan.
 - Permainan disimpan dalam pelayar (localStorage). Gunakan **Simpan → Muat turun fail simpanan** untuk sandaran atau untuk berpindah peranti.
 - Tukar bahasa dengan butang **BM | EN** di bahagian atas.
+- Muzik latar dijana terus dalam pelayar. Hidupkan atau matikan dengan butang ♪.
+- Boleh disimpan ke skrin utama telefon (Add to Home Screen) dengan ikon tersendiri.
 
 ## Ciri utama
 

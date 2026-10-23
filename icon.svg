@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F3FA8"/><stop offset="1" stop-color="#06123A"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE16B"/><stop offset="1" stop-color="#F0B90B"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M0 360 L512 250 L512 512 L0 512Z" fill="#FFFFFF" opacity=".05"/>
+  <rect x="196" y="118" width="120" height="58" rx="22" fill="none" stroke="url(#gold)" stroke-width="26"/>
+  <rect x="96" y="160" width="320" height="236" rx="38" fill="url(#gold)"/>
+  <rect x="96" y="238" width="320" height="22" fill="#C98A00" opacity=".55"/>
+  <path d="M138 352 L204 300 L250 324 L330 250" fill="none" stroke="#06123A" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 246 L340 242 L336 282" fill="none" stroke="#06123A" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="462" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="900" font-style="italic" font-size="58" fill="#FFD23F" letter-spacing="2">NIAGA</text>
+</svg>
